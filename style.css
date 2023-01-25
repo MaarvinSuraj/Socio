@@ -305,19 +305,19 @@ main .container .left .profile{
 
 
 .middle .stories .story:nth-child(1){
-    background: url("/Users/maarvin/Documents/Project/Socio/pics/S6.jpeg") center/cover;
+    background: url("./pics/S6.jpeg") center/cover;
 }
 
 .middle .stories .story:nth-child(2){
-    background: url("/Users/maarvin/Documents/Project/Socio/pics/S4.webp") center/cover;
+    background: url("./pics/S4.webp") center/cover;
 }
 
 .middle .stories .story:nth-child(3){
-    background: url("/Users/maarvin/Documents/Project/Socio/pics/S1.webp") center/cover;
+    background: url("./pics/S1.webp") center/cover;
 }
 
 .middle .stories .story:nth-child(4){
-    background: url("/Users/maarvin/Documents/Project/Socio/pics/PP6.webp") center/cover;
+    background: url("./pics/PP6.webp") center/cover;
 }
 
 
